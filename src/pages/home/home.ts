@@ -21,7 +21,8 @@ export class HomePage {
   }
 
   private getSilders() {
-    this.rest.httpGet(Global.API.getSilder)
-    
+    // this.rest.httpGet(Global.API.getSilder)
 
+  }
 }
+
